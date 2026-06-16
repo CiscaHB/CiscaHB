@@ -1,32 +1,31 @@
 <h1 align="left">Cisca Human</h1>
 
 ## About Me
-I am a data and analytics professional with a deep engineering backbone, dedicated to turning complex data into human-centric solutions.
+I believe that the most powerful data solutions are the ones built with people and planet in mind.
 
 **My Foundation:**  
 BSc Graduate and former Software Engineer with 16 years of hands-on experience building robust systems.
 
 **My Perspective:**  
-A meaningful journey through the care and charity sectors, shaping a thoughtful and empathetic approach to problem-solving with a strong focus on the end-user.
+A career detour through the care and charity sectors shaped an empathetic approach to problem-solving with a strong focus on the end-user.
 
-**My Mission:** 
-Bridging the gap between technical data and real-world needs to deliver insights that make a genuine difference.
-
+**My Ambition:** 
+Collaborating at the intersection of technical data and urgent societal needs to deliver considered solutions.
 
 ## Tech Stack
 
-<p align="center">
-  https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-  https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-  https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white 
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
-
-| Technology | Proficiency |
-|-----------|------------|
+## Proficiency
+| Technology | Core Expertise |
+|------------|----------------|
 | <img src="https://img.shields.io/badge/Data%20Analysis-6A5ACD?style=for-the-badge" />| Data cleaning, analysis, visualising|
 | <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />| Data cleaning and preparation<br>Creating dashboards and reports<br>Using formulas, pivot tables, and charts to analyse trends |
 | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> | Building interactive dashboards<br>Visualising trends and patterns in data<br>Communicating insights through visual storytelling |
