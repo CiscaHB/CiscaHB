@@ -1,5 +1,5 @@
 <h1 align="center">Cisca Human</h1>
-<h2 align="center">Aspiring Data & Technology Enthusiast</h2>
+<h2 align="center">Junior Data Analyst</h2>
 
 ## About Me
 I enjoy working with data and solving problems, and I dedicate myself to continuously improving my skills in technology, particularly in data and analytics.
