@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Cisca Human - Data & Analytics Banner" width="100%">
+  <img src="[github-banner.png](https://github.com/CiscaHB/CiscaHB/blob/main/Github-banner.png?raw=true)" alt="Cisca Human - Data & Analytics Banner" width="100%">
 </p>
 
 <h1 align="left">Cisca Human (CiscaHB)</h1>
