@@ -2,13 +2,11 @@
   <img src="https://github.com/CiscaHB/CiscaHB/blob/main/Github-banner.png?raw=true" alt="Cisca Human - Data & Analytics Banner" width="100%">
 </p>
 
-<h1 align="left">Cisca Human (CiscaHB)</h1>
-
 ## 🔹About Me
 I believe that the most powerful data solutions are the ones built with people and planet in mind.
 
 **My Foundation:**  
-BSc Graduate and former Software Engineer with 16 years of hands-on experience building robust systems.
+BSc Graduate and former Software Engineer with experience building robust corporate systems.
 
 **My Perspective:**  
 A career detour through the care and charity sectors shaped an empathetic approach to problem-solving with a strong focus on the end-user.
@@ -17,12 +15,12 @@ A career detour through the care and charity sectors shaped an empathetic approa
 Collaborating at the intersection of technical data and urgent societal needs to deliver considered solutions.
 
 **Skilled in:** 
-Data Analysis
-SQL
-Python
-Excel
-PowerBI
-Tableau
+Data Analysis,  
+SQL, 
+Python,  
+Excel, 
+PowerBI, 
+Tableau, 
 Azure
 
 ## 🔹Tech Stack
