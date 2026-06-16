@@ -1,6 +1,6 @@
-<h1 align="left">Cisca Human</h1>
+<h1 align="left">Cisca Human (CiscaHB)</h1>
 
-## About Me
+## 🔹About Me
 I believe that the most powerful data solutions are the ones built with people and planet in mind.
 
 **My Foundation:**  
@@ -12,18 +12,16 @@ A career detour through the care and charity sectors shaped an empathetic approa
 **My Ambition:** 
 Collaborating at the intersection of technical data and urgent societal needs to deliver considered solutions.
 
-## Tech Stack
+**Skilled in:** 
+Data Analysis
+SQL
+Python
+Excel
+PowerBI
+Tableau
+Azure
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
-## Proficiency
+## 🔹Tech Stack
 | Technology | Core Expertise |
 |------------|----------------|
 | <img src="https://img.shields.io/badge/Data%20Analysis-6A5ACD?style=for-the-badge" />| Data cleaning, analysis, visualising|
@@ -34,16 +32,19 @@ Collaborating at the intersection of technical data and urgent societal needs to
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />| Writing scripts for data analysis and problem-solving<br>Using loops, functions, and conditional logic<br>Basic data handling and analysis |
 | <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />| Understanding cloud-based data services<br>Working with data storage and cloud concepts<br>Exploring data workflows in Azure environments |
 
-### You can further explore my work here:  
+## 🔹Featured Projects
+You can further explore my work here:
 https://github.com/CiscaHB
 
 ## GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=CiscaHB&show_icons=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=CiscaHB&layout=compact
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CiscaHB&show_icons=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscaHB&layout=compact" />
 </p>
 
 ## Contact
 - LinkedIn: *(add your link)*  
 - Email: *(optional)*
+
 
