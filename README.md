@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Cisca Human - Data & Analytics Banner" width="100%">
+</p>
+
 <h1 align="left">Cisca Human (CiscaHB)</h1>
 
 ## 🔹About Me
