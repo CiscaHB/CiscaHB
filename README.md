@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Github-banner.png" alt="Cisca Human - Data & Analytics Banner" width="100%">
-</p>
-
 ## 🔹About Me
 I believe that the most powerful data solutions are the ones built with people and planet in mind.
 
